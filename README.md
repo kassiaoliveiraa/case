@@ -1,7 +1,7 @@
 # Documentação Arquitetura
 
 # Arquitetura
-![alt tag](Case.png)
+![alt tag](Images/Case.png)
 
 ## Descrição
 
@@ -79,4 +79,29 @@ O código `cloudFunction.py` é uma função que roda no Google Cloud Functions.
     - `last_add_date`: Data da última adição ao carrinho do usuário.
     - `top_category`: Categoria mais frequente dos produtos adicionados ao carrinho.
     - `data_process`: Data e hora do processamento
+
+
+
+## Google Cloud Plataform
+
+   Todo o desenvolvimento foi feito e implementado na GCP, algumas imagens das implementações podem ser vistas abaixo:
+
+## Schedule
+![alt tag](Images/Schedule.png)
+
+## Cloud Function
+![alt tag](Images/Schedule.png)
+
+## Cloud Storage
+![alt tag](Images/CloudStorage.png)
+
+## Bigquery
+![alt tag](Images/Info_table_bq.png)
+
+![alt tag](Images/infos_dados_bq.png)
+
+## Monitoring
+![alt tag](Images/Monitoring.png)
+
+
 
